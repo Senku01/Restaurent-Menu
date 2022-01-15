@@ -1,0 +1,135 @@
+.nav{
+    margin:20px;
+    display: flex;
+    flex-direction:row ;
+    justify-content:space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    background-color: #3f3f3f;
+    font-weight: 700px;
+    font-size: 30px;
+    font-family: 'Mochiy Pop P One', sans-serif;
+    font-family: 'Shadows Into Light', cursive;
+    height: 100px;
+}
+.nav-item:hover{
+    background-color: tomato;
+    border-radius: 5px;
+
+}
+body{
+    background-color: #878683;
+}
+
+.head{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 100px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.menu-1{
+    display: flex;
+    flex-direction: column;
+    font-family: 'Mochiy Pop P One', sans-serif;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 20px;
+}
+.menu-1.pic{
+    border-radius: 50px;
+    padding: 30px;
+    width: 50%;
+}
+.menu-1.item{
+    display: flex;
+    padding:10px;
+    padding-left: 40px;
+}
+.menu-2{
+    display: flex;
+    flex-direction:column;
+    font-family: 'Mochiy Pop P One', sans-serif;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 20px;
+}
+.menu-2 .item{
+    display: flex;
+    padding:10px;
+    padding-left: 40px;
+    
+}
+.menu-2.pic{
+    border-radius: 50px;
+    padding: 30px;
+    width: 50%;
+}
+
+.head-2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 100px;
+}
+.menu-3{
+    display: flex;
+    flex-direction:column;
+    font-family: 'Mochiy Pop P One', sans-serif;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 20px;
+}
+.menu-3.pic{
+    border-radius: 50px;
+    padding: 30px;
+    width: 50%;
+}
+.menu-3 .item{
+    display: flex;
+    padding:10px;
+    padding-left: 40px;
+    
+}
+.menu-4{
+    display: flex;
+    flex-direction:column;
+    font-family: 'Mochiy Pop P One', sans-serif;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 20px;
+}
+.menu-4.pic{
+    border-radius: 50px;
+    padding: 30px;
+    width: 50%;
+}
+.menu-4 .item{
+    display: flex;
+    padding:10px;
+    padding-left: 40px;
+    
+}
+.head-3{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 100px;
+}
+.menu-5{
+    display: flex;
+    flex-direction:column;
+    font-family: 'Mochiy Pop P One', sans-serif;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 20px;
+}
+.menu-5.pic{
+    border-radius: 50px;
+    padding: 30px;
+    width: 50%;
+}
+.menu-5 .item{
+    display: flex;
+    padding:10px;
+    padding-left: 40px;
+    
+}

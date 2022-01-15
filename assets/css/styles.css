@@ -1,0 +1,66 @@
+.nav{
+    margin:20px;
+    display: flex;
+    flex-direction:row ;
+    justify-content:space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    background-color: #3f3f3f;
+    font-weight: 700px;
+    font-size: 30px;
+    height: 100px;
+    font-family: 'Mochiy Pop P One', sans-serif;
+
+    font-family: 'Shadows Into Light', cursive;
+}
+.nav-item:hover{
+    background-color: tomato;
+    border-radius: 5px;
+
+}
+.contact{
+    display: flex;
+    flex-direction:row;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 50px;
+    font-size: 25px;
+    font-style: italic;
+    font-family:cursive;
+}
+body{
+    background-color: #6c7b82;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+img{
+    display: auto;
+    width:100%;
+    padding: 10px;
+}
+.head{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    margin: 40px;
+    font-size: 40px;
+    font-family: 'Mochiy Pop P One', sans-serif;
+    font-family: 'Shadows Into Light', cursive,italic;
+}
+.form{
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    flex-wrap:wrap;
+    padding-left: 100px;
+    height: 70px;
+    font-size: 30px;
+    font-family: 'Mochiy Pop P One', sans-serif;
+    font-family: 'Shadows Into Light', cursive,italic;
+}
+
+button{
+    padding: 10px;
+}
