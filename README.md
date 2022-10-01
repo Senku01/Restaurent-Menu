@@ -1,9 +1,11 @@
 # Restaurent-Menu![home](https://user-images.githubusercontent.com/60399486/149623574-7b90810c-fd80-4332-9c17-9950d915cd53.png)
-To Run This Website Static:<br></br>
-Clone this `Repo`<br></br>
-Make sure you have `Live Server` extention installed in `VsCode`<br></br>
-Clone it <br></br>
-Open the `index.html` File and Run it In Live Server<br></br>
+This is a Static Website to Make it Run `LocalHost`<br></br>
+<ul>
+  <li>Clone this Repo </li>
+  <li>Make sure you have Live Server extention installed in VsCode</li>
+  <li>Clone it </li>
+  <li>Open the <strong>index.html</strong> File and Run it In Live Server</li>
+</ul>
 <br></br>
 
 Here is the Link To the Website:<br></br>
